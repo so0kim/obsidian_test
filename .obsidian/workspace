@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d04f7be916cbe833",
+        "id": "390b48d50e58b5bd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "test.md.md",
-            "mode": "source",
-            "source": false
+            "file": "test/2022-08-11.md",
+            "staged": false
           }
         }
       }
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md.md",
+                "file": "test/2022-08-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md.md",
+                "file": "test/2022-08-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +116,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md.md"
+                "file": "test/2022-08-11.md"
               }
             }
+          },
+          {
+            "id": "a87dd7ed3b7850dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 461.5
   },
-  "active": "d04f7be916cbe833",
-  "lastOpenFiles": []
+  "active": "a87dd7ed3b7850dd",
+  "lastOpenFiles": [
+    "test/2022-08-11.md",
+    "2022-08-11.md",
+    "test/test.md"
+  ]
 }

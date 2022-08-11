@@ -1,3 +1,6 @@
 [
-  "heatmap-calendar"
+  "heatmap-calendar",
+  "obsidian-mkdocs-publisher",
+  "obsidian-git",
+  "obsidian-activity-history"
 ]
