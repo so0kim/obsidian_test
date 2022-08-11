@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2365cbc833f78343",
+        "id": "cdd55826ab488c07",
         "type": "leaf",
         "state": {
           "type": "diff-view",
           "state": {
-            "file": "test/2022-08-11.md",
+            "file": "README.md",
             "staged": false
           }
         }
@@ -76,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/2022-08-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/2022-08-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test/2022-08-11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,6 +133,7 @@
   },
   "active": "a87dd7ed3b7850dd",
   "lastOpenFiles": [
+    "README.md",
     "test/2022-08-11.md",
     "2022-08-11.md",
     "test/test.md"
